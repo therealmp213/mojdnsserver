@@ -10,3 +10,4 @@ $TTL 604800
 ns1     IN  A       10.0.10.6
 jenkins     IN  A       10.0.10.5
 www     IN  A       10.0.10.5
+@     IN  A       10.0.10.5
